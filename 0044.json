@@ -1,0 +1,9 @@
+{
+    "story": "The criminals shoots after you, but misses. Do you run further or hide?",
+    "options": {
+        "Run": "0145",
+        "Hide": "0146"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}

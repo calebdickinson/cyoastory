@@ -1,0 +1,8 @@
+{
+    "story": "The phone line is clogged. Suddenly the phone electrocutes you. THE END.",
+    "options": {
+        "PLAY AGAIN": "0001"
+    },
+    "music path": "0004.wav",
+    "image path": "0004.jpg"
+}

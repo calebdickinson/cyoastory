@@ -1,0 +1,8 @@
+{
+    "story": "You go back. Just as you see the hotel, an earthquake comes.\nYou fall over in the middle of the road and die. THE END.",
+    "options": {
+        "PLAY AGAIN": "0001"
+    },
+    "music path": "0002.wav",
+    "image path": "0002.jpg"
+}

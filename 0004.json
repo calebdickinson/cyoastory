@@ -1,0 +1,10 @@
+{
+    "story": "You begin your journey down Vizinni Road.\nDo you choose to walk, bike, or drive?",
+    "options": {
+        "Walk": "0013",
+        "Bike": "0014",
+        "Drive": "0015"
+    },
+    "music path": "0004.wav",
+    "image path": "0004.jpg"
+}

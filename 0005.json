@@ -1,0 +1,10 @@
+{
+    "story": "You begin your journey down Burbon Road.\nDo you choose to walk, bike, or drive?",
+    "options": {
+        "Walk": "0016",
+        "Bike": "0017",
+        "Drive": "0018"
+    },
+    "music path": "0005.wav",
+    "image path": "0005.jpg"
+}

@@ -1,0 +1,9 @@
+{
+    "story": "While you are driving, an earthquake suddenly begins.\nDo you keep on driving or stop the car on the side of the road?",
+    "options": {
+        "Keep driving": "0116",
+        "Stop the car": "0117"
+    },
+    "music path": "0002.wav",
+    "image path": "0002.jpg"
+}

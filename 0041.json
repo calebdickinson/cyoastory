@@ -1,0 +1,8 @@
+{
+    "story": "The car of criminals accidentally crashes into you and you all die. THE END.",
+    "options": {
+        "PLAY AGAIN": "0001"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}

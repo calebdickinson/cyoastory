@@ -1,0 +1,10 @@
+{
+    "story": "You drive into a dark, dense forest. The road splits onto 3 different, smaller roads.\nDo you drive on the road that leads into a massive gaping Cave,\ngo to the witch's house or go to the wizard's house?",
+    "options": {
+        "Cave": "0079",
+        "Witch": "0080",
+        "Wizard": "0081"    
+    },
+    "music path": "0005.wav",
+    "image path": "0005.jpg"
+}

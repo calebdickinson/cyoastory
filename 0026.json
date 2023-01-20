@@ -1,0 +1,19 @@
+{
+    "story": "You are awakened by an earthquake, but you are so tired that you soon go back to sleep.\nIn the morning, after wake up and eat breakfast, you go down to the pool to relax.\nYou see a dog swimming in the swimming pool. Do you scream, get in the swimming pool,\nleap up and down screaming, become sick and throw up, cover your eyes up, get in a the warm pool,\nget in a chair, call and report, leave the room, go in the sauna, move around the room, or do nothing?",
+    "options": {
+        "Scream": "0096",
+        "Swim": "0097",
+        "Scream & Jump": "0098",
+        "Throw up": "0099",
+        "Cover eyes": "0100",
+        "Warm pool": "0101",
+        "Chair": "0102",
+        "Call & Report": "0103",
+        "Leave": "0104",
+        "Sauna": "0105",
+        "Move": "0106",
+        "Nothing": "0107"
+    },
+    "music path": "0002.wav",
+    "image path": "0002.jpg"
+}

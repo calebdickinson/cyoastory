@@ -1,0 +1,9 @@
+{
+    "story": "You grab your bed and throw it out and then jump on the bundle.\nYou take the bundle and set the bed up on a grassy hill. Do you try to stay awake or do you go to sleep?",
+    "options": {
+        "Try to stay awake": "0151",
+        "Go to sleep": "0152"
+    },
+    "music path": "0004.wav",
+    "image path": "0004.jpg"
+}

@@ -1,0 +1,10 @@
+{
+    "story": "You begin your journey down Chittyville Road.\nDo you choose to walk, bike, or drive?",
+    "options": {
+        "Walk": "0007",
+        "Bike": "0008A",
+        "Drive": "0009"
+    },
+    "music path": "0002.wav",
+    "image path": "0002.jpg"
+}

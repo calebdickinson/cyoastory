@@ -1,0 +1,10 @@
+{
+    "story": "The road leads into a dark, creepy forest. Soon it splits into 3 roads.\nOne is unmarked, and leads to a gaping cave.\nDo you go in the cave, go to the witch's house, or go to the wizard's house?",
+    "options": {
+        "Cave": "0073",
+        "Witch": "0074",
+        "Wizard": "0075"    
+    },
+    "music path": "0005.wav",
+    "image path": "0005.jpg"
+}

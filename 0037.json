@@ -1,0 +1,8 @@
+{
+    "story": "The man easily catches up with you. He shoots you and you die. THE END.",
+    "options": {
+        "PLAY AGAIN": "0001"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}

@@ -1,0 +1,9 @@
+{
+    "story": "The building shakes harder. Do you still do nothing, or hide under the bed?",
+    "options": {
+        "Do nothing": "0153",
+        "Hide under the bed": "0154"
+    },
+    "music path": "0004.wav",
+    "image path": "0004.jpg"
+}

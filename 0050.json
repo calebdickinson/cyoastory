@@ -1,0 +1,10 @@
+{
+    "story": "Debris rains upon you, but you stay safe. Soon the earthquake stops.\nDo you poke your head out of the blanket to look around, do nothing, or try to get up?",
+    "options": {
+        "Look around": "0155",
+        "Do nothing": "0156",
+        "Try to get up": "0157"
+    },
+    "music path": "0004.wav",
+    "image path": "0004.jpg"
+}

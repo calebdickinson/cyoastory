@@ -1,0 +1,12 @@
+{
+    "story": "Do you say, \"Dudes, a car is driving behind me\",\"Little red cars go beep, beep, beep\",\n\"Bang! Bang! Bang!\",\"And to think that I saw it on Mulberry Street?\",\n or do you say \"I would like to report some suspicious activity\" and them tell them what is happening and\ndescribe the car's appearance and license plate?",
+    "options": {
+        "\"Dudes, a car...\"": "0124",
+        "\"Little red cars...\"": "0125",
+        "\"Bang! Bang! Bang!\"": "0126",
+        "\"...Mulberry Street?\"": "0127",
+        "Describe the car": "0128"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}

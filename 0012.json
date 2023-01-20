@@ -1,0 +1,13 @@
+{
+    "story": "You zoom along the road. There's a car full of criminals behind you. They shoot a bullet at\nthe back of your car, but miss. Do you drive faster, drive normally like nothing happened,\ndrive slower, call 911, ditch your car by the side of the road and run straight into a cornfield,\nor zoom your car straight into a cornfield?",
+    "options": {
+        "Drive faster": "0039",
+        "Drive normally": "0040",
+        "Drive slower": "0041",
+        "Call 911": "0042",
+        "Stop and run into cornfield": "0043",
+        "Drive into cornfield": "0044"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}

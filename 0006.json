@@ -1,0 +1,10 @@
+{
+    "story": "You begin your journey down Icicle Road.\nDo you choose to walk, bike, or drive?",
+    "options": {
+        "Walk": "0019",
+        "Bike": "0020",
+        "Drive": "0021A"
+    },
+    "music path": "0006.wav",
+    "image path": "0006.jpg"
+}

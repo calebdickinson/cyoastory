@@ -1,0 +1,10 @@
+{
+    "story": "You bike into a dark forest. The road splits into 3 roads.\nDo you bike down the road that leads into a gaping cave,\ngo on the road that leads to the witches house,\nor go on the road that leads to the wizards house?",
+    "options": {
+        "Cave": "0076",
+        "Witch": "0077",
+        "Wizard": "0078"    
+    },
+    "music path": "0005.wav",
+    "image path": "0005.jpg"
+}

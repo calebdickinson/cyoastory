@@ -1,0 +1,9 @@
+{
+    "story": "You come to an ocean and see a lone ship with 20 people boarding it. One of them says:\n\"We are going to sail into the unknown. Would you like to come with us?\"\nA bleak, dark, purplish, massive ocean looms before you.\nDo you go on the ship with them or laugh at them?",
+    "options": {
+        "Join the voyage": "0533",
+        "Laugh at them": "0534"
+    },
+    "music path": "0002.wav",
+    "image path": "0268.jpg"
+}

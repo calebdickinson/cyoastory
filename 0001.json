@@ -1,0 +1,12 @@
+{
+    "story": "You are off to seek your fortune.\nThere are five roads that lead away from the town where you live.\n Which road do you choose to travel?",
+    "options": {
+        "Chittyville Road": "0002",
+        "Paplau Road": "0003",
+        "Vizinni Road": "0004",
+        "Burbon Road": "0005",
+        "Icicle Road": "0006"
+    },
+    "music path": "0001.wav",
+    "image path": "0001.jpg"
+}

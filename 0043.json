@@ -1,0 +1,9 @@
+{
+    "story": "You wake up in an ambulance. Do you go back to sleep or try to get up?",
+    "options": {
+        "Sleep": "0143",
+        "Try to get up": "0144"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}

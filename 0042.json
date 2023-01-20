@@ -1,0 +1,9 @@
+{
+    "story": "You do. As the police rush over, the man aims at you again. Do you zoom away or stay?",
+    "options": {
+        "Zoom away": "0141",
+        "Stay": "0142"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}

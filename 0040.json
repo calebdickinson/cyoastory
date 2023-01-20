@@ -1,0 +1,8 @@
+{
+    "story": "The criminals shoot at you. A bullet goes in the window and you die. THE END",
+    "options": {
+        "PLAY AGAIN": "0001"
+    },
+    "music path": "0003.wav",
+    "image path": "0003.jpg"
+}
