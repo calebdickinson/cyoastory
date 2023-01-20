@@ -1,6 +1,17 @@
 """
-comments for choose your own adventure story
+Comments for choose your own adventure story.
+Purpose of this comments file is to keep track of progress.
+Default is 0000.
+Default image and/or music is/are 0002, 0003, 0004, 0005, or 0006 depending on
+whether pages are descendents of Chittyville, Paplau, Vizinni, Burbon,
+or Icicle roads respectively.
+text = json file with complete text [default json #### doesn't count]
+image = jpeg[or jpg] file
+music = wav file
+* there is no "0000" text/json file; text file is any location of
+* "SORRY THIS PAGE DOES NOT YET EXIST"
 """
+# 0000[default]: text[see above *], image, music
 # 0001: text, image, music
 # 0002: text, image, music
 # 0003: text, image, music
