@@ -1,3 +1,4 @@
+#!usr/bin/python
 """
 Final version of choose your own adventure story.
 """
