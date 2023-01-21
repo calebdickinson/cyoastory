@@ -1,10 +1,10 @@
 {
-    "story": "You bike on. At about noon, you ride through a nice little town called Rehdeck. You ride on.\nBy the time it is evening, you come to a hotel. You book in at it, and you go to sleep.\nIn the middle of the night you wake up to the rumbling of a terrible earthquake.\nDo you try to pretend that nothing is happening, run out the hotel, or hide under the bed?",
+    "story": "You bike on. At about noon, you bike through a small town called Rehdeck.\nBy the time it is evening, you come to a hotel. You book in at it, and go to sleep.\nIn the middle of the night you wake up to the rumbling of a terrible earthquake.\nDo you try to pretend that nothing is happening, run out the hotel, or hide under the bed?",
     "options": {
         "Pretend nothing is happening": "0054",
         "Run outside": "0055",
         "Hide under the bed": "0056"
     },
     "music path": "0004.wav",
-    "image path": "0004.jpg"
+    "image path": "0014.jpg"
 }

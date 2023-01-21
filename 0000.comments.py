@@ -22,20 +22,20 @@ music = wav file
 # 0008A: text, image
 # 0008B: text, image
 # 0008C: text, image
-# 0009: text
-# 0010: text
-# 0011: text
-# 0012: text
-# 0013: text
-# 0014: text
-# 0015: text
-# 0016: text
-# 0017: text
-# 0018: text
-# 0019: text
-# 0020: text
-# 0021A: text
-# 0021B: text
+# 0009: text, image
+# 0010: text, image
+# 0011: text, image
+# 0012: text, image
+# 0013: text, image
+# 0014: text, image
+# 0015: text, image
+# 0016: text, image
+# 0017: text, image
+# 0018: text, image
+# 0019: text, image
+# 0020: text, image
+# 0021A: text, image
+# 0021B: text, image
 # 0022: text, image
 # 0023: text
 # 0024: text

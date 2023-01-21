@@ -1,5 +1,5 @@
 {
-    "story": "You drive through a little town of 500 people and then a tiny village of 137 people.\nFinally you come to a giant split. The highway branches into 16 different roads.\nDo you go straight on Vizinni road, turn onto Cheesecakeville road, go to Lafalot road,\ngo to the University of Thrill road, go to the University of Chemistry road,\ngo to Candylandville road, go to Ground 51 do not enter road, go on Stained Glass road,\nturn on noodles road, go to normal town road, go to weird town road, go to hippie paradise road,\ngo to the lumber business road, go on Country fried Squirrels road,\ngo on mouseland road, or go to Bookworm road?",
+    "story": "You drive for hours and hours. The climate gets drier and drier. Soon you are driving through a desert.\n. You come to a city built on an oasis in the desert. The highway branches into 16 different roads.\nDo you go straight on Vizinni road, turn onto Cheesecakeville road, go to Lafalot road,\ngo to the University of Thrill road, go to the University of Chemistry road,\ngo to Candylandville road, go to Ground 51 do not enter road, go on Stained Glass road,\nturn on noodles road, go to normal town road, go to weird town road, go to hippie paradise road,\ngo to the lumber business road, go on Country fried Squirrels road,\ngo on mouseland road, or go to Bookworm road?",
     "options": {
         "Vizinni": "0057",
         "Cheesecake": "0058",
@@ -20,5 +20,5 @@
     
     },
     "music path": "0004.wav",
-    "image path": "0004.jpg"
+    "image path": "0015.jpg"
 }
