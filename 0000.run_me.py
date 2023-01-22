@@ -1,5 +1,3 @@
-#!usr/bin/python
-print('Content-type: text/html/r/n/r')
 """
 Final version of choose your own adventure story.
 """
